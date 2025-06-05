@@ -1,0 +1,49 @@
+@media (max-width:1570px){
+    .menu{
+        gap: 0rem;
+    }
+}
+@media (max-width:1450px){
+    .menu{
+        padding-left: 0rem;
+       
+    }
+    .main-nav{
+        padding: 0.4rem 0.8rem;
+    }
+}
+
+@media (max-width:1385px){
+    .menu a{
+        padding: 0.3rem 0.3rem;
+    }
+}
+@media (max-width:1335px){
+    #logo{
+        width: 280px;
+        height: auto;
+    }
+    .menu a{
+        font-size: 13.6px;
+    }
+}
+@media (max-width:1200px){
+    #logo{
+        width: 240px;
+        height: auto;
+    }
+    .menu a{
+        font-size: 12px;
+    }
+}
+/* @media (max-width:768px){
+    .col-md-4{
+        width: 100vw;
+    }
+} */
+
+/* @media(max-height:1080px){
+   .carousel-slide{
+    width: 80%;
+   }
+} */
